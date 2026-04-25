@@ -1,0 +1,45 @@
+{
+  "type": "手机导航App界面截图",
+  "app": "高德地图风格实时导航",
+  "style": "深色模式地图，3D建筑物渲染，霓虹路线高亮，iOS风格UI",
+  "device": "iPhone全面屏，带灵动岛和状态栏（信号+WiFi+电量78%+时间21:47）",
+  "scene": "夜间驾车导航穿越上海陆家嘴",
+  "ui_elements": {
+    "top_bar": {
+      "next_turn": {
+        "icon": "右转箭头（大号，绿色）",
+        "distance": "300米后右转",
+        "road_name": "进入世纪大道",
+        "lane_guidance": "4车道图示，最右2车道高亮（推荐车道）"
+      }
+    },
+    "map_view": {
+      "perspective": "3D驾驶视角，前方道路延伸",
+      "route_line": "蓝绿色渐变导航线，当前位置有脉冲动画箭头",
+      "buildings_3d": "陆家嘴三件套（上海中心、环球金融、金茂大厦）半透明3D轮廓，带楼层灯光",
+      "traffic_overlay": "当前路段绿色（畅通），前方500米有一段黄色（缓行）",
+      "poi_markers": [
+        "星巴克（咖啡杯图标）",
+        "国金中心（购物袋图标）",
+        "东方明珠（地标图标）"
+      ],
+      "car_icon": "蓝色三角箭头表示当前位置和朝向"
+    },
+    "bottom_info_bar": {
+      "eta": "预计到达 22:15",
+      "remaining": "剩余 12.3公里 · 约28分钟",
+      "traffic_status": "前方整体畅通",
+      "speed": "当前速度 52 km/h（限速60）"
+    },
+    "bottom_controls": {
+      "left": "路线概览按钮",
+      "center": "收起/展开按钮",
+      "right": "更多选项（加油站·休息区·分享位置）"
+    },
+    "floating_elements": {
+      "top_right": "3D/2D切换 + 指南针",
+      "music_widget": "迷你音乐播放条：🎵 周杰伦 - 夜曲 ▶️",
+      "speed_camera_alert": "前方800米测速摄像头（限速60km/h）⚠️"
+    }
+  }
+}
