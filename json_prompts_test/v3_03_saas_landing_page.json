@@ -1,0 +1,49 @@
+{
+  "type": "Web UI 落地页设计",
+  "product": "FlowDesk — AI驱动的项目管理平台",
+  "style": "现代SaaS风格，浅色模式，大圆角，柔和阴影，紫蓝渐变作为品牌色",
+  "device": "在MacBook Pro屏幕中展示，笔记本电脑45°倾斜视角",
+  "page_layout": {
+    "nav_bar": {
+      "left": "FlowDesk Logo（抽象流水图标+文字）",
+      "center": [
+        "产品",
+        "价格",
+        "文档",
+        "博客"
+      ],
+      "right": "登录 | 免费试用（紫色实心按钮）"
+    },
+    "hero_section": {
+      "headline": "用AI重新定义项目管理",
+      "sub_headline": "FlowDesk 自动拆解任务、预测延期风险、生成周报，让团队专注于真正重要的事。",
+      "cta_buttons": [
+        "免费开始（紫色）",
+        "观看演示（白色描边）"
+      ],
+      "hero_image": "右侧浮动展示产品截图：看板视图，有多个彩色任务卡片，AI助手对话气泡覆盖在上方",
+      "social_proof": "已有 12,000+ 团队在使用 · ⭐4.9 Product Hunt"
+    },
+    "features_section": {
+      "title": "为什么选择 FlowDesk？",
+      "cards": [
+        {
+          "icon": "🧠",
+          "title": "AI 任务拆解",
+          "desc": "描述目标，AI自动生成子任务和里程碑"
+        },
+        {
+          "icon": "⚠️",
+          "title": "风险预警",
+          "desc": "实时分析进度数据，提前48小时预测延期"
+        },
+        {
+          "icon": "📊",
+          "title": "一键周报",
+          "desc": "AI汇总本周进展，自动生成图文报告"
+        }
+      ]
+    },
+    "logo_bar": "信任我们的团队：字节跳动 · 蚂蚁集团 · 小红书 · 理想汽车 · 米哈游"
+  }
+}

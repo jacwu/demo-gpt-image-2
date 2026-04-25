@@ -1,0 +1,93 @@
+{
+  "type": "企业级数据分析仪表盘",
+  "product": "PRISM Analytics — 电商运营数据中台",
+  "style": "深色模式，玻璃拟态卡片(glassmorphism)，渐变紫蓝高亮，16px圆角",
+  "background": "#0B0F1A 深蓝黑",
+  "layout": {
+    "sidebar": {
+      "width": "窄侧边栏",
+      "logo": "◇ PRISM",
+      "nav_items": [
+        "📊 概览（当前高亮）",
+        "📈 销售",
+        "👥 用户",
+        "📦 商品",
+        "🎯 营销",
+        "⚙️ 设置"
+      ],
+      "bottom": "用户头像 'JW' + 在线状态绿点"
+    },
+    "top_bar": {
+      "left": "概览 Overview",
+      "center": "日期选择器：2026-04-01 至 2026-04-24",
+      "right": "刷新 | 导出 | 筛选器"
+    },
+    "kpi_cards": {
+      "count": 4,
+      "cards": [
+        {
+          "title": "总GMV",
+          "value": "¥12,847,300",
+          "change": "+18.5%↑",
+          "color": "绿色",
+          "sparkline": "上升趋势"
+        },
+        {
+          "title": "订单量",
+          "value": "38,729",
+          "change": "+12.3%↑",
+          "color": "绿色",
+          "sparkline": "上升趋势"
+        },
+        {
+          "title": "客单价",
+          "value": "¥331.7",
+          "change": "-2.1%↓",
+          "color": "红色",
+          "sparkline": "微降趋势"
+        },
+        {
+          "title": "退货率",
+          "value": "4.2%",
+          "change": "-0.8%↓",
+          "color": "绿色",
+          "sparkline": "下降趋势（好）"
+        }
+      ]
+    },
+    "main_chart": {
+      "title": "GMV与订单量趋势（近30天）",
+      "type": "双轴组合图：柱状图（GMV，渐变紫色）+ 折线图（订单量，青色）",
+      "x_axis": "日期 4/1 - 4/24",
+      "annotations": "4月18日标注'大促日'峰值"
+    },
+    "bottom_left": {
+      "title": "品类销售占比",
+      "type": "环形图",
+      "data": [
+        "服装 32%（紫色）",
+        "数码 24%（蓝色）",
+        "美妆 18%（粉色）",
+        "食品 15%（绿色）",
+        "家居 11%（橙色）"
+      ],
+      "center_text": "¥12.8M"
+    },
+    "bottom_center": {
+      "title": "热销商品 Top 5",
+      "type": "横向条形图",
+      "items": [
+        "iPhone 16 Pro — ¥1,247,000",
+        "Airwrap 造型器 — ¥892,000",
+        "始祖鸟冲锋衣 — ¥763,000",
+        "SK-II神仙水 — ¥651,000",
+        "戴森V15吸尘器 — ¥589,000"
+      ]
+    },
+    "bottom_right": {
+      "title": "实时流量地图",
+      "type": "中国地图热力图",
+      "hotspots": "广东、浙江、江苏颜色最深，标注各省GMV数值"
+    }
+  }
+}

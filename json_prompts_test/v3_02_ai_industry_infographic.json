@@ -1,0 +1,91 @@
+{
+  "type": "信息图表海报",
+  "subject": "2026年全球AI行业全景图",
+  "style": "扁平化矢量风格，深蓝背景，渐变霓虹色数据高亮，科技感",
+  "background": "深蓝 #0A1628，底部有浅色网格线",
+  "layout": {
+    "header": {
+      "title": "2026 全球AI行业全景图",
+      "english": "GLOBAL AI LANDSCAPE 2026",
+      "subtitle": "数据来源：IDC / Gartner / CB Insights"
+    },
+    "section_1_market": {
+      "title": "市场规模",
+      "main_number": "$5,200亿",
+      "sub_text": "全球AI市场规模（2026年预估）",
+      "growth_chart": "2020-2026柱状图，逐年递增，2026高亮",
+      "yoy": "同比增长 38.7%"
+    },
+    "section_2_players": {
+      "title": "头部玩家",
+      "layout": "6个圆形Logo排列",
+      "companies": [
+        {
+          "name": "OpenAI",
+          "valuation": "$3000亿",
+          "focus": "大模型"
+        },
+        {
+          "name": "Google DeepMind",
+          "valuation": "-",
+          "focus": "AGI研究"
+        },
+        {
+          "name": "Anthropic",
+          "valuation": "$610亿",
+          "focus": "安全AI"
+        },
+        {
+          "name": "Meta AI",
+          "valuation": "-",
+          "focus": "开源模型"
+        },
+        {
+          "name": "xAI",
+          "valuation": "$500亿",
+          "focus": "Grok"
+        },
+        {
+          "name": "字节跳动",
+          "valuation": "-",
+          "focus": "豆包/多模态"
+        }
+      ]
+    },
+    "section_3_segments": {
+      "title": "细分赛道",
+      "pie_chart": {
+        "segments": [
+          "大模型/基础设施 35%",
+          "企业AI应用 25%",
+          "自动驾驶 15%",
+          "AI芯片 12%",
+          "AI安全 8%",
+          "其他 5%"
+        ]
+      }
+    },
+    "section_4_trends": {
+      "title": "2026关键趋势",
+      "items": [
+        {
+          "icon": "🤖",
+          "text": "Agent成为主流交互范式"
+        },
+        {
+          "icon": "🧠",
+          "text": "多模态模型统一文本/图像/视频/代码"
+        },
+        {
+          "icon": "⚡",
+          "text": "端侧AI芯片性能突破100TOPS"
+        },
+        {
+          "icon": "🔒",
+          "text": "AI安全监管全球立法加速"
+        }
+      ]
+    },
+    "footer": "© 2026 AI Research Report | 数据截至2026年4月"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "type": "超高端地产楼书对开页",
+  "project": "湖山雅集 LAKEVIEW MANOR",
+  "style": "顶奢地产画册，大面积留白，烫金细节，宋体+无衬线英文混排，极致优雅",
+  "background": "左页深墨绿色，右页纯白",
+  "layout": {
+    "left_page": {
+      "background": "深墨绿色 #1A2F2A",
+      "content": {
+        "top_left": "烫金小字 'LAKEVIEW MANOR · PRIVATE COLLECTION'",
+        "center": {
+          "type": "建筑可视化渲染图",
+          "description": "湖畔独栋别墅黄昏全景：三层现代中式建筑，大面积落地窗映射暖黄室内光，前方无边际泳池与湖面视觉连接，远山层叠，天空是粉橙渐变的晚霞。庭院有日式枯山水，几株造型松点缀。"
+        },
+        "bottom": "白色小字 '实景拍摄于2026年3月 · 湖山雅集C-12号院'"
+      }
+    },
+    "right_page": {
+      "background": "纯白",
+      "content": {
+        "top": {
+          "chinese_title": "湖山雅集",
+          "english_title": "LAKEVIEW MANOR",
+          "divider": "细金线"
+        },
+        "body_text": "择址千岛湖黄金半岛，三面环湖，一面依山。\n\n每一座院落都是一件孤品——\n270°环湖视野，私家泊位直通湖面，\n室内面积约480-680㎡，庭院面积约300-500㎡。\n\n由安藤忠雄工作室担纲建筑设计，\n以清水混凝土与原木诠释东方侘寂之美。",
+        "specs_grid": {
+          "layout": "2x3网格，每格一个参数",
+          "items": [
+            {
+              "icon": "🏔️",
+              "value": "三面环湖",
+              "label": "270°湖景"
+            },
+            {
+              "icon": "🏊",
+              "value": "无边际泳池",
+              "label": "湖面视觉连接"
+            },
+            {
+              "icon": "📐",
+              "value": "480-680㎡",
+              "label": "室内面积"
+            },
+            {
+              "icon": "🌿",
+              "value": "300-500㎡",
+              "label": "私家庭院"
+            },
+            {
+              "icon": "🛥️",
+              "value": "私家泊位",
+              "label": "直通湖面"
+            },
+            {
+              "icon": "🏗️",
+              "value": "安藤忠雄",
+              "label": "建筑设计"
+            }
+          ]
+        },
+        "cta": {
+          "text": "私人品鉴预约",
+          "phone": "400-000-8888",
+          "note": "仅限邀约制参观"
+        },
+        "bottom_logos": "千岛湖旅游集团 × 绿城中国 × 安藤忠雄建筑研究所"
+      }
+    }
+  }
+}

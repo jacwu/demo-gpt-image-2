@@ -1,0 +1,61 @@
+{
+  "type": "手机端电商产品详情页",
+  "platform": "天猫旗舰店风格",
+  "product": "戴森 Airwrap 多功能美发造型器",
+  "style": "高端产品详情页，白色背景为主，品牌紫红色点缀，精致产品摄影",
+  "device": "iPhone手机屏幕内展示，带状态栏",
+  "page_layout": {
+    "top_bar": "天猫 · 戴森官方旗舰店 | 关注 | 客服",
+    "hero_carousel": {
+      "main_image": "戴森Airwrap产品45°侧视图，紫红配色，悬浮感，周围有飘动的发丝展示气流效果",
+      "indicators": "5个圆点，第1个高亮",
+      "tag": "左上角红色标签'新品首发'"
+    },
+    "price_section": {
+      "title": "Dyson Airwrap i.d.™ 多功能造型器 长发版",
+      "price": "¥3,999",
+      "original_price": "¥4,599（划线价）",
+      "promotion": "限时直降600 | 赠价值299元顺滑精油",
+      "sales": "月销 8,200+",
+      "rating": "4.9分 · 2.1万+评价"
+    },
+    "sku_selector": {
+      "color_options": [
+        "紫红色（当前选中，带边框）",
+        "深空灰",
+        "柔粉色"
+      ],
+      "spec_options": [
+        "长发版 ¥3,999",
+        "短发版 ¥3,799",
+        "完整版 ¥4,699"
+      ]
+    },
+    "key_features": {
+      "layout": "4个圆形icon横排",
+      "items": [
+        {
+          "icon": "💨",
+          "text": "康达效应气流"
+        },
+        {
+          "icon": "🌡️",
+          "text": "智能温控"
+        },
+        {
+          "icon": "✨",
+          "text": "防飞翘"
+        },
+        {
+          "icon": "🔄",
+          "text": "多合一造型"
+        }
+      ]
+    },
+    "detail_images": "下方开始是产品详情长图区域，展示第一张：模特使用Airwrap卷发的效果图，左侧文案'一次吹干，同时造型'",
+    "bottom_bar": {
+      "left": "店铺 | 客服 | 购物车(3)",
+      "right": "加入购物车（金色）| 立即购买（红色）"
+    }
+  }
+}

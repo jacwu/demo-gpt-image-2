@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "v3_01_drone_exploded_view",
+    "title": "无人机爆炸视图",
+    "size": "1024x1536",
+    "prompt": "{\"type\": \"产品爆炸视图海报\", \"subject\": \"专业航拍无人机\", \"style\": \"高科技3D渲染，暗色主题，青蓝色光效点缀，工业精密感\", \"background\": \"深灰到纯黑径向渐变，微粒光点\", \"header\": {\"logo\": \"▲ SKYEYE FALCON X7\", \"subtitle\": \"每一个模块，为极致飞行而生\"}, \"layout\": {\"centerpiece\": \"无人机垂直堆叠爆炸视图，展示8层组件：碳纤维机臂（4个）、无刷电机组、螺旋桨叶片、云台稳定器、4K HDR摄像头模组、飞控主板（含GPS+避障芯片）、智能电池组、机身上壳（带散热鳍片）\", \"callout_labels\": {\"left_side\": [\"碳纤维折叠机臂\\n航空级T700碳布，重量仅42g/臂，折叠后体积缩小60%\", \"飞控核心主板\\n双冗余IMU + RTK厘米级定位 + 全向避障处理单元\", \"智能飞行电池\\n5870mAh LiPo 4S，续航47分钟，支持PD快充\", \"散热机身上壳\\n航空铝合金+石墨烯散热片，长时间飞行不过热\"], \"right_side\": [\"2212无刷电机 ×4\\n最大推力1.2kg/个，KV值920，静音设计\", \"碳纤螺旋桨\\n9寸低噪桨叶，快拆设计，3秒更换\", \"三轴云台稳定器\\n±0.01°控制精度，支持竖拍模式切换\", \"1英寸CMOS摄像头\\nHasselblad调色，4K/120fps + 20MP照片\"]}, \"footer\": {\"left_text\": {\"headline\": \"精密堆叠，定义专业航拍\", \"body\": \"8大核心模块经过10万次飞行测试验证。SKYEYE FALCON X7，从结构设计到飞控算法，每一层都是行业标杆。\"}, \"right_logo\": \"▲ SKYEYE\"}}}",
+    "success": true,
+    "size_kb": 2146.4,
+    "elapsed": 82.8,
+    "image": "v3_01_drone_exploded_view.png"
+  },
+  {
+    "id": 2,
+    "name": "v3_02_ai_industry_infographic",
+    "title": "AI行业信息图",
+    "size": "1024x1536",
+    "prompt": "{\"type\": \"信息图表海报\", \"subject\": \"2026年全球AI行业全景图\", \"style\": \"扁平化矢量风格，深蓝背景，渐变霓虹色数据高亮，科技感\", \"background\": \"深蓝 #0A1628，底部有浅色网格线\", \"layout\": {\"header\": {\"title\": \"2026 全球AI行业全景图\", \"english\": \"GLOBAL AI LANDSCAPE 2026\", \"subtitle\": \"数据来源：IDC / Gartner / CB Insights\"}, \"section_1_market\": {\"title\": \"市场规模\", \"main_number\": \"$5,200亿\", \"sub_text\": \"全球AI市场规模（2026年预估）\", \"growth_chart\": \"2020-2026柱状图，逐年递增，2026高亮\", \"yoy\": \"同比增长 38.7%\"}, \"section_2_players\": {\"title\": \"头部玩家\", \"layout\": \"6个圆形Logo排列\", \"companies\": [{\"name\": \"OpenAI\", \"valuation\": \"$3000亿\", \"focus\": \"大模型\"}, {\"name\": \"Google DeepMind\", \"valuation\": \"-\", \"focus\": \"AGI研究\"}, {\"name\": \"Anthropic\", \"valuation\": \"$610亿\", \"focus\": \"安全AI\"}, {\"name\": \"Meta AI\", \"valuation\": \"-\", \"focus\": \"开源模型\"}, {\"name\": \"xAI\", \"valuation\": \"$500亿\", \"focus\": \"Grok\"}, {\"name\": \"字节跳动\", \"valuation\": \"-\", \"focus\": \"豆包/多模态\"}]}, \"section_3_segments\": {\"title\": \"细分赛道\", \"pie_chart\": {\"segments\": [\"大模型/基础设施 35%\", \"企业AI应用 25%\", \"自动驾驶 15%\", \"AI芯片 12%\", \"AI安全 8%\", \"其他 5%\"]}}, \"section_4_trends\": {\"title\": \"2026关键趋势\", \"items\": [{\"icon\": \"🤖\", \"text\": \"Agent成为主流交互范式\"}, {\"icon\": \"🧠\", \"text\": \"多模态模型统一文本/图像/视频/代码\"}, {\"icon\": \"⚡\", \"text\": \"端侧AI芯片性能突破100TOPS\"}, {\"icon\": \"🔒\", \"text\": \"AI安全监管全球立法加速\"}]}, \"footer\": \"© 2026 AI Research Report | 数据截至2026年4月\"}}",
+    "success": true,
+    "size_kb": 1622.8,
+    "elapsed": 83.0,
+    "image": "v3_02_ai_industry_infographic.png"
+  },
+  {
+    "id": 3,
+    "name": "v3_03_saas_landing_page",
+    "title": "SaaS落地页设计",
+    "size": "1536x1024",
+    "prompt": "{\"type\": \"Web UI 落地页设计\", \"product\": \"FlowDesk — AI驱动的项目管理平台\", \"style\": \"现代SaaS风格，浅色模式，大圆角，柔和阴影，紫蓝渐变作为品牌色\", \"device\": \"在MacBook Pro屏幕中展示，笔记本电脑45°倾斜视角\", \"page_layout\": {\"nav_bar\": {\"left\": \"FlowDesk Logo（抽象流水图标+文字）\", \"center\": [\"产品\", \"价格\", \"文档\", \"博客\"], \"right\": \"登录 | 免费试用（紫色实心按钮）\"}, \"hero_section\": {\"headline\": \"用AI重新定义项目管理\", \"sub_headline\": \"FlowDesk 自动拆解任务、预测延期风险、生成周报，让团队专注于真正重要的事。\", \"cta_buttons\": [\"免费开始（紫色）\", \"观看演示（白色描边）\"], \"hero_image\": \"右侧浮动展示产品截图：看板视图，有多个彩色任务卡片，AI助手对话气泡覆盖在上方\", \"social_proof\": \"已有 12,000+ 团队在使用 · ⭐4.9 Product Hunt\"}, \"features_section\": {\"title\": \"为什么选择 FlowDesk？\", \"cards\": [{\"icon\": \"🧠\", \"title\": \"AI 任务拆解\", \"desc\": \"描述目标，AI自动生成子任务和里程碑\"}, {\"icon\": \"⚠️\", \"title\": \"风险预警\", \"desc\": \"实时分析进度数据，提前48小时预测延期\"}, {\"icon\": \"📊\", \"title\": \"一键周报\", \"desc\": \"AI汇总本周进展，自动生成图文报告\"}]}, \"logo_bar\": \"信任我们的团队：字节跳动 · 蚂蚁集团 · 小红书 · 理想汽车 · 米哈游\"}}",
+    "success": true,
+    "size_kb": 1260.8,
+    "elapsed": 119.7,
+    "image": "v3_03_saas_landing_page.png"
+  },
+  {
+    "id": 4,
+    "name": "v3_04_mmorpg_game_ui",
+    "title": "MMORPG游戏界面",
+    "size": "1536x1024",
+    "prompt": "{\"type\": \"游戏UI界面截图\", \"game\": \"仙剑奇缘Online — 国风MMORPG\", \"style\": \"中国仙侠风，金色描边UI框架，半透明深色面板，粒子特效点缀\", \"scene_background\": \"云海之上的仙山宫殿，远处有飞瀑和仙鹤，黄昏光照，体积云\", \"ui_elements\": {\"top_left\": {\"player_info\": \"头像框（金色龙纹边框）+ 角色名'青莲剑仙' + Lv.87 + 门派'蜀山'\", \"hp_bar\": \"红色血条 12,450/15,000\", \"mp_bar\": \"蓝色法力条 8,200/10,000\", \"buffs\": \"3个增益图标（剑气护体、灵力加持、经验翻倍）\"}, \"top_center\": {\"quest_tracker\": \"当前任务：寻找上古灵剑 (3/5) — 击败蛟龙守卫 ✓ · 收集龙鳞 ✓ · 解开封印阵 ✓ · 进入剑冢 ○ · 取得灵剑 ○\"}, \"top_right\": {\"minimap\": \"圆形小地图，显示周围地形、NPC黄点、队友绿点、怪物红点\", \"coordinates\": \"蜀山·剑冢秘境 (1247, 892)\"}, \"bottom_center\": {\"skill_bar\": \"12个技能格，带快捷键1-0和Q/E标注\", \"skills\": [\"御剑术\", \"万剑归宗\", \"冰封千里\", \"回春术\", \"雷电斩\", \"分身幻影\", \"龙吟\", \"天罡剑阵\", \"疾风步\", \"灵盾\", \"大招·诛仙剑阵(CD 12s)\", \"坐骑召唤\"], \"action_bar_style\": \"金色描边菱形图标，激活技能有蓝色光效\"}, \"bottom_left\": {\"chat_box\": \"半透明聊天框\", \"messages\": [\"【世界】云中君：有人组队打蛟龙吗？\", \"【队伍】花千骨：我来奶，等我传送\", \"【系统】恭喜玩家'剑圣无双'获得神器·轩辕剑！\"]}, \"bottom_right\": {\"quick_access\": \"背包 · 角色 · 社交 · 商城 · 系统\", \"mount_button\": \"骑乘按钮（仙鹤图标）\"}, \"center\": {\"character\": \"一位白衣飘飘的剑修角色站在画面中央，手持发光长剑，衣袂飘动，脚下有法阵光效\"}}}",
+    "success": true,
+    "size_kb": 2929.2,
+    "elapsed": 80.3,
+    "image": "v3_04_mmorpg_game_ui.png"
+  },
+  {
+    "id": 5,
+    "name": "v3_05_ecommerce_product_page",
+    "title": "电商产品详情页",
+    "size": "1024x1536",
+    "prompt": "{\"type\": \"手机端电商产品详情页\", \"platform\": \"天猫旗舰店风格\", \"product\": \"戴森 Airwrap 多功能美发造型器\", \"style\": \"高端产品详情页，白色背景为主，品牌紫红色点缀，精致产品摄影\", \"device\": \"iPhone手机屏幕内展示，带状态栏\", \"page_layout\": {\"top_bar\": \"天猫 · 戴森官方旗舰店 | 关注 | 客服\", \"hero_carousel\": {\"main_image\": \"戴森Airwrap产品45°侧视图，紫红配色，悬浮感，周围有飘动的发丝展示气流效果\", \"indicators\": \"5个圆点，第1个高亮\", \"tag\": \"左上角红色标签'新品首发'\"}, \"price_section\": {\"title\": \"Dyson Airwrap i.d.™ 多功能造型器 长发版\", \"price\": \"¥3,999\", \"original_price\": \"¥4,599（划线价）\", \"promotion\": \"限时直降600 | 赠价值299元顺滑精油\", \"sales\": \"月销 8,200+\", \"rating\": \"4.9分 · 2.1万+评价\"}, \"sku_selector\": {\"color_options\": [\"紫红色（当前选中，带边框）\", \"深空灰\", \"柔粉色\"], \"spec_options\": [\"长发版 ¥3,999\", \"短发版 ¥3,799\", \"完整版 ¥4,699\"]}, \"key_features\": {\"layout\": \"4个圆形icon横排\", \"items\": [{\"icon\": \"💨\", \"text\": \"康达效应气流\"}, {\"icon\": \"🌡️\", \"text\": \"智能温控\"}, {\"icon\": \"✨\", \"text\": \"防飞翘\"}, {\"icon\": \"🔄\", \"text\": \"多合一造型\"}]}, \"detail_images\": \"下方开始是产品详情长图区域，展示第一张：模特使用Airwrap卷发的效果图，左侧文案'一次吹干，同时造型'\", \"bottom_bar\": {\"left\": \"店铺 | 客服 | 购物车(3)\", \"right\": \"加入购物车（金色）| 立即购买（红色）\"}}}",
+    "success": true,
+    "size_kb": 1229.5,
+    "elapsed": 68.4,
+    "image": "v3_05_ecommerce_product_page.png"
+  },
+  {
+    "id": 6,
+    "name": "v3_06_analytics_dashboard",
+    "title": "数据分析仪表盘",
+    "size": "1536x1024",
+    "prompt": "{\"type\": \"企业级数据分析仪表盘\", \"product\": \"PRISM Analytics — 电商运营数据中台\", \"style\": \"深色模式，玻璃拟态卡片(glassmorphism)，渐变紫蓝高亮，16px圆角\", \"background\": \"#0B0F1A 深蓝黑\", \"layout\": {\"sidebar\": {\"width\": \"窄侧边栏\", \"logo\": \"◇ PRISM\", \"nav_items\": [\"📊 概览（当前高亮）\", \"📈 销售\", \"👥 用户\", \"📦 商品\", \"🎯 营销\", \"⚙️ 设置\"], \"bottom\": \"用户头像 'JW' + 在线状态绿点\"}, \"top_bar\": {\"left\": \"概览 Overview\", \"center\": \"日期选择器：2026-04-01 至 2026-04-24\", \"right\": \"刷新 | 导出 | 筛选器\"}, \"kpi_cards\": {\"count\": 4, \"cards\": [{\"title\": \"总GMV\", \"value\": \"¥12,847,300\", \"change\": \"+18.5%↑\", \"color\": \"绿色\", \"sparkline\": \"上升趋势\"}, {\"title\": \"订单量\", \"value\": \"38,729\", \"change\": \"+12.3%↑\", \"color\": \"绿色\", \"sparkline\": \"上升趋势\"}, {\"title\": \"客单价\", \"value\": \"¥331.7\", \"change\": \"-2.1%↓\", \"color\": \"红色\", \"sparkline\": \"微降趋势\"}, {\"title\": \"退货率\", \"value\": \"4.2%\", \"change\": \"-0.8%↓\", \"color\": \"绿色\", \"sparkline\": \"下降趋势（好）\"}]}, \"main_chart\": {\"title\": \"GMV与订单量趋势（近30天）\", \"type\": \"双轴组合图：柱状图（GMV，渐变紫色）+ 折线图（订单量，青色）\", \"x_axis\": \"日期 4/1 - 4/24\", \"annotations\": \"4月18日标注'大促日'峰值\"}, \"bottom_left\": {\"title\": \"品类销售占比\", \"type\": \"环形图\", \"data\": [\"服装 32%（紫色）\", \"数码 24%（蓝色）\", \"美妆 18%（粉色）\", \"食品 15%（绿色）\", \"家居 11%（橙色）\"], \"center_text\": \"¥12.8M\"}, \"bottom_center\": {\"title\": \"热销商品 Top 5\", \"type\": \"横向条形图\", \"items\": [\"iPhone 16 Pro — ¥1,247,000\", \"Airwrap 造型器 — ¥892,000\", \"始祖鸟冲锋衣 — ¥763,000\", \"SK-II神仙水 — ¥651,000\", \"戴森V15吸尘器 — ¥589,000\"]}, \"bottom_right\": {\"title\": \"实时流量地图\", \"type\": \"中国地图热力图\", \"hotspots\": \"广东、浙江、江苏颜色最深，标注各省GMV数值\"}}}",
+    "success": true,
+    "size_kb": 1458.1,
+    "elapsed": 86.5,
+    "image": "v3_06_analytics_dashboard.png"
+  },
+  {
+    "id": 7,
+    "name": "v3_07_luxury_real_estate",
+    "title": "豪宅地产楼书",
+    "size": "1536x1024",
+    "prompt": "{\"type\": \"超高端地产楼书对开页\", \"project\": \"湖山雅集 LAKEVIEW MANOR\", \"style\": \"顶奢地产画册，大面积留白，烫金细节，宋体+无衬线英文混排，极致优雅\", \"background\": \"左页深墨绿色，右页纯白\", \"layout\": {\"left_page\": {\"background\": \"深墨绿色 #1A2F2A\", \"content\": {\"top_left\": \"烫金小字 'LAKEVIEW MANOR · PRIVATE COLLECTION'\", \"center\": {\"type\": \"建筑可视化渲染图\", \"description\": \"湖畔独栋别墅黄昏全景：三层现代中式建筑，大面积落地窗映射暖黄室内光，前方无边际泳池与湖面视觉连接，远山层叠，天空是粉橙渐变的晚霞。庭院有日式枯山水，几株造型松点缀。\"}, \"bottom\": \"白色小字 '实景拍摄于2026年3月 · 湖山雅集C-12号院'\"}}, \"right_page\": {\"background\": \"纯白\", \"content\": {\"top\": {\"chinese_title\": \"湖山雅集\", \"english_title\": \"LAKEVIEW MANOR\", \"divider\": \"细金线\"}, \"body_text\": \"择址千岛湖黄金半岛，三面环湖，一面依山。\\n\\n每一座院落都是一件孤品——\\n270°环湖视野，私家泊位直通湖面，\\n室内面积约480-680㎡，庭院面积约300-500㎡。\\n\\n由安藤忠雄工作室担纲建筑设计，\\n以清水混凝土与原木诠释东方侘寂之美。\", \"specs_grid\": {\"layout\": \"2x3网格，每格一个参数\", \"items\": [{\"icon\": \"🏔️\", \"value\": \"三面环湖\", \"label\": \"270°湖景\"}, {\"icon\": \"🏊\", \"value\": \"无边际泳池\", \"label\": \"湖面视觉连接\"}, {\"icon\": \"📐\", \"value\": \"480-680㎡\", \"label\": \"室内面积\"}, {\"icon\": \"🌿\", \"value\": \"300-500㎡\", \"label\": \"私家庭院\"}, {\"icon\": \"🛥️\", \"value\": \"私家泊位\", \"label\": \"直通湖面\"}, {\"icon\": \"🏗️\", \"value\": \"安藤忠雄\", \"label\": \"建筑设计\"}]}, \"cta\": {\"text\": \"私人品鉴预约\", \"phone\": \"400-000-8888\", \"note\": \"仅限邀约制参观\"}, \"bottom_logos\": \"千岛湖旅游集团 × 绿城中国 × 安藤忠雄建筑研究所\"}}}}",
+    "success": true,
+    "size_kb": 1367.9,
+    "elapsed": 81.2,
+    "image": "v3_07_luxury_real_estate.png"
+  }
+]
